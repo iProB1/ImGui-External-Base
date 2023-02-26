@@ -30,7 +30,7 @@ int main()
         return 1;
     }
 
-    ShowWindow(hwnd, SW_HIDE);
+    ShowWindow(GetConsoleWindow(), SW_HIDE); // fixed hiding console you can show console by change SW_HIDE to SW_SHOW
     UpdateWindow(hwnd);
 
     IMGUI_CHECKVERSION();
