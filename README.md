@@ -3,6 +3,7 @@
 - [My Discord Server sharing and more...](https://discord.gg/8S5eBJ4cBN)
 
 ## Info
+- directx sdk anyways you can download it here: [download](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 - there theme folder you can use it for fontawesome etc
 - i added directx and curl too for you guys to use it well
 - when you build looks like this
