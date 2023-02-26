@@ -13,6 +13,6 @@
 
 - like this:
 
-![image](https://user-images.githubusercontent.com/50064486/221398086-f7b702b2-a5f5-4301-9097-c3a35f3730fd.png)
+![image](https://user-images.githubusercontent.com/50064486/221398381-5a8d4c60-5a47-4cd4-a610-935b0ce35a88.png)
 
 - after that you can build it as release x64 you can do it in debug too but do same settings on debug too
