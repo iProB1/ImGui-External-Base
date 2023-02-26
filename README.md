@@ -20,3 +20,7 @@
 ![image](https://user-images.githubusercontent.com/50064486/221398381-5a8d4c60-5a47-4cd4-a610-935b0ce35a88.png)
 
 - after that you can build it as release x64 you can do it in debug too but do same settings on debug too
+
+- me using release x64:
+
+![image](https://user-images.githubusercontent.com/50064486/221398741-69258cd3-6cd9-4edf-a177-9d470c23bf8c.png)
