@@ -1,5 +1,5 @@
 # ImGui-External-Base
-- i want to share that only thats my reason
+- clean external base
 - [My Discord Server sharing and more...](https://discord.gg/8S5eBJ4cBN)
 
 ## Info
