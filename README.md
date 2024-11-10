@@ -11,6 +11,6 @@
 
 ## Building
 - First download Visual Studio Community 2022
-
+- CTRL + F5 to build and run app
 ![image](https://github.com/user-attachments/assets/da0bfa7b-8738-4483-a884-7ed9c6be3662)
 
