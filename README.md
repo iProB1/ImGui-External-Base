@@ -4,7 +4,7 @@
 
 ## Info
 - directx sdk anyways you can download it here: [download](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
-- there theme folder you can use it for fontawesome etc
+- used arial, fontawesome font
 - when you build looks like this
 
 ![image](https://user-images.githubusercontent.com/50064486/221398523-a27d85b7-84f2-4392-ba4f-6eebae1917d5.png)
